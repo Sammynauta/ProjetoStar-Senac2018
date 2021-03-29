@@ -4,6 +4,7 @@ Projeto feito no CURSO SENAC em 2018.
 
 ##  SOBRE O PROJETO
 
+- APNEAS VERSÃO DESKTOP.
 - O objetivo do projeto era criar um website de qualquer area e implementar as habilidades aprendidas.
 
 ## STAR GAMES
